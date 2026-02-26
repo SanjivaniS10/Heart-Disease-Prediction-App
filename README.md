@@ -46,7 +46,7 @@ Heart_disease/
 └── README.md
 📊 Input Features
 
-![First Page](https://github.com/SanjivaniS10/Heart-Disease-Prediction-App/blob/main/Screenshot%202026-02-26%20142221.png))
+
 The model takes the following medical inputs:
 
 Age
@@ -70,6 +70,9 @@ Exercise Induced Angina
 Oldpeak (ST Depression)
 
 Slope of ST Segment
+
+![First Page](https://github.com/SanjivaniS10/Heart-Disease-Prediction-App/blob/main/Screenshot%202026-02-26%20142221.png))
+![Second Page](https://github.com/SanjivaniS10/Heart-Disease-Prediction-App/blob/main/Screenshot%202026-02-26%20142221.png))
 
 🧠 Machine Learning Workflow
 
