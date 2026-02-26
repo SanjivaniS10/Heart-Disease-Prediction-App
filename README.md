@@ -72,7 +72,7 @@ Oldpeak (ST Depression)
 Slope of ST Segment
 
 ![First Page](https://github.com/SanjivaniS10/Heart-Disease-Prediction-App/blob/main/Screenshot%202026-02-26%20142221.png))
-![Second Page]((https://github.com/SanjivaniS10/Heart-Disease-Prediction-App/blob/main/Screenshot%202026-02-26%20142124.png))
+![Second Page](https://github.com/SanjivaniS10/Heart-Disease-Prediction-App/blob/main/Screenshot%202026-02-26%20142124.png))
 
 🧠 Machine Learning Workflow
 
