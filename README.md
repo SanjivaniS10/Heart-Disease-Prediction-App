@@ -46,7 +46,7 @@ Heart_disease/
 └── README.md
 📊 Input Features
 
-![First Page](Screenshot 2026-02-26 142221.png)
+![First Page](https://github.com/SanjivaniS10/Heart-Disease-Prediction-App/blob/main/Screenshot%202026-02-26%20142221.png))
 The model takes the following medical inputs:
 
 Age
