@@ -46,6 +46,7 @@ Heart_disease/
 └── README.md
 📊 Input Features
 
+![First Page](https://github.com/SanjivaniS10/Wine-fraud-Detection/blob/main/Snsp%2002.png)
 The model takes the following medical inputs:
 
 Age
